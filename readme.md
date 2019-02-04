@@ -7,3 +7,5 @@ Now I'll edit and push with GitHub for Mac.
 Just updated file to test cloned repository.
 
 Testing clickup integration
+
+Testing another clickup thing
