@@ -5,3 +5,5 @@ Now I'll edit and push with GitHub for Mac.
 *Just changed this to a Markdown file.* 
 
 Just updated file to test cloned repository.
+
+Testing clickup integration
